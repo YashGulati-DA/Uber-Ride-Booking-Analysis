@@ -68,6 +68,3 @@ Project Files
 - uber_ride_analysis.ipynb - Complete Python analysis with code, outputs, visualizations, and findings.
 - ncr_ride_bookings.csv - Dataset used for the analysis.
 
-Author
-
-Yash Gulati
